@@ -1,5 +1,7 @@
 # ID311-Linjar-Arduino-Code
 
+Talay Yasa - Kutay Karabey
+
 Used Arduino IDE to write and upload the code to the Arduino Nano.
 
 Key functionalities implemented:
